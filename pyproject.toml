@@ -10,6 +10,7 @@ flask = "^3.0.0"
 gunicorn = "^21.2.0"
 skills = "^0.3.0"
 litellm = "^1.35.33"
+python-dotenv = "^0.20.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
