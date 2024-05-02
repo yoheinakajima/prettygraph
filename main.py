@@ -40,8 +40,8 @@ def update_graph():
                   Based on the user input in various forms such as paragraph, email, text files, and more.
                   Your task is to create a knowledge graph based on the input.
                   Nodes must have a label parameter. where the label is a direct word or phrase from the input.
-                  Edges must also have a label parameter, wher the label is a direct word or phrase from the input.
-                  Respons only with JSON in a format where we can jsonify in python and feed directly into  cy.add(data); to display a graph on the front-end.
+                  Edges must also have a label parameter, where the label is a direct word or phrase from the input.
+                  Respond only with JSON in a format where we can jsonify in python and feed directly into  cy.add(data); to display a graph on the front-end.
                   Make sure the target and source of edges match an existing node.
                   Do not include the markdown triple quotes above and below the JSON, jump straight into it with a curly bracket.
                 """
