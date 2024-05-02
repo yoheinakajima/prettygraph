@@ -1,6 +1,7 @@
 # prettygraph
 
-**prettygraph** is a Python-based web application developed by [@yoheinakajima](https://twitter.com/yoheinakajima) to demonstrate a new UI pattern for text-to-knowledge graph generation. This project is a quick hack and not intended to be a robust framework, but a tool to explore possibilities in dynamically generating knowledge graphs from text inputs.
+**prettygraph** is a Python-based web application developed by [@yoheinakajima](https://twitter.com/yoheinakajima) to demonstrate a new UI pattern for text-to-knowledge graph generation. This project is a quick hack and not intended to be a robust framework, but a simple UI idea for dynamically highlighting the text input when generating knowledge graphs.
+![prettygraph image](https://github.com/yoheinakajima/prettygraph/blob/main/prettygraph.jpeg?raw=true)
 
 ## Overview
 
